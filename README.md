@@ -35,9 +35,10 @@ Develop a Java program that:
 ## Result
 ![image](https://github.com/user-attachments/assets/07e2ad51-4011-433e-9243-979db9ce05ec)
 
-## Languages ​​and Concepts Used
-  - Java
-  - Conditional Structure
+## Languages and Concepts Used
+- Java
+- Conditional Structure
 
 ## Actor
 Matheus Accorsi
+
